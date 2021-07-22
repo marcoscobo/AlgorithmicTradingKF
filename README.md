@@ -1,4 +1,4 @@
-# Algorithmic Trading based on Kalman Filter
+# Algorithmic Trading Bot based on Kalman Filter
 Algorithmic trading bot based on the Kalman filter, which studies market conditions, trends and indicators to make pre-programmed decisions, to trade mainly in the FOREX market. The algorithmic trading bot obtains the optimal parameters for the Kalman filter by solving an optimization problem, comparing it to a centred moving average, and then returns a market signal based on the Bollinger Bands technical indicator.
 
 ## Libraries used:
