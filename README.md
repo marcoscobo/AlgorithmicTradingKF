@@ -9,6 +9,7 @@ In this bot we will use Python (version 3.9) and different libraries, among whic
 - Pandas
 - SciPy
 - Datetime
+- Schedule
 - Matplotlib
 - MetaTrader5
 
